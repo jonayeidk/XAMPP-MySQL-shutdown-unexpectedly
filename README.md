@@ -15,7 +15,8 @@
     
     3. Copy the content that resides in mysql/backup to the new mysql/data folder
     
-    4. Copy all your database folders that are in mysql/data_old to mysql/data (skipping the mysql, performance_schema, and phpmyadmin folders from data_old)
+    4. Copy all your database folders that are in mysql/data_old to mysql/data 
+    (skipping the mysql, performance_schema, and phpmyadmin folders from data_old)
     
     5. Finally copy the ibdata1 file from mysql/data_old and replace it inside mysql/data folder
     
