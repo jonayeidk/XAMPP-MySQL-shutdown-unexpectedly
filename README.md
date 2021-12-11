@@ -1,10 +1,10 @@
 # XAMPP-MySQL-shutdown-unexpectedly
 
-# Open XAMPP and click start MySQL button and it giving me an error like `MySQL Shutdown Unexpectedly`
+Open XAMPP and click start MySQL button and it giving me an error like `MySQL Shutdown Unexpectedly`
 
 Please do NOT delete ibdata1 file from the folder ` YoursXamppFolder/mysql/data `
 
-# Instead, first try using the MySQL backup folder which is included with XAMPP. So do the next:
+Instead, first try using the MySQL backup folder which is included with XAMPP. So do the next:
   
 1. Rename the folder `mysql/data` to `mysql/data_old` (you can use any name)
 
